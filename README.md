@@ -9,4 +9,6 @@ for student test git merge system
 * 6510110347 Phakin jitsakunchaidet
 * 6510110060 Jakkapat Sermkaew
 * 6510110202 Tharakorn Chalayonkupt
+* 6510110342 Phattarakorn Nalinbenchaphan
+* 6510110140 Nattanon Chumrit
 * 6510110344 Phattaraphon Sripaoraya
