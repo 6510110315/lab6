@@ -30,3 +30,4 @@ for student test git merge system
 * 6510110670 Poohnarit Rittirut
 * 6510110421 Wannasak Nooplod
 * 6510110194 Thanaphum Bubaso
+* 6510110371 Phoorin Nickphong
