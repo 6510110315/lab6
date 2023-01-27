@@ -32,3 +32,4 @@ for student test git merge system
 * 6510110194 Thanaphum Bubaso
 * 6510110371 Phoorin Nickphong
 * 6510110115 Sareef Masamaeng
+* 6510110230 Narubet Sophannarat
