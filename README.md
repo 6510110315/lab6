@@ -20,3 +20,4 @@ for student test git merge system
 * 6510110052 Khanison Buamiklin
 * 6510110192 Thanaphat Panmas
 * 6510110166 Thanutham Tuktian
+* 6510110119 Sola Phaiboonsombat
