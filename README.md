@@ -50,3 +50,4 @@ for student test git merge system
 * 6510110084 Chadaporn Patsuriya
 * 6510110334 Pakapol Daengmanikun
 * 6510110374 Phuriphat Wongkhachonloetmetha
+* 6510110528 Arinchai Raethong
