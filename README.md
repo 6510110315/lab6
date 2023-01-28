@@ -46,3 +46,4 @@ for student test git merge system
 * 6510110124 Naphat Junmuang
 * 6510110565 Alifridowan Auma
 * 6510110034 Kayyasit Chumthong
+* 6510110071 Jirasak Songsri
