@@ -71,3 +71,5 @@ for student test git merge system
 * 6510110116 Silmee Panan
 * 6510110132 Natcha Laepankaew
 * 6510110379 Maisoon Kentasa
+* 6510110046 Kiadchanok Bunkaeosri
+* 6510110356 Passakorn Limseng
