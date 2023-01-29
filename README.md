@@ -72,4 +72,7 @@ for student test git merge system
 * 6510110132 Natcha Laepankaew
 * 6510110379 Maisoon Kentasa
 * 6510110046 Kiadchanok Bunkaeosri
+<<<<<<< HEAD
 * 6510110356 Passakorn Limseng
+=======
+>>>>>>> f5d9898eb21bee58f2d6ab588b0a7690477b6a0c
